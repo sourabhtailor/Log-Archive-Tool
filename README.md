@@ -68,3 +68,6 @@ The script writes archive activity to:
 
 ```
 /var/www/testlog_archive/archive_log.txt
+
+**## Automating with Cron**
+Set a cronjob with desired time
